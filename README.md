@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+
 - 👋 Hi, I’m Shubham Patel
 - 👀 I’m interested in Cloud and devOps, Flutter and Competitive programming
 - 🌱 I’m currently learning Cloud and want to learn web development.
