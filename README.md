@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ShubhamPatel72.visitor-badge)
+![](https://komarev.com/ghpvc/?username=ShubhamPatel72&style=plastic)
 
 - 👋 Hi, I’m Shubham Patel
 - 👀 I’m interested in Cloud and devOps, Flutter and Competitive programming
