@@ -1,8 +1,10 @@
 <div align="center" width="50">
 
 
-![](https://github.com/ShubhamPatel72/ShubhamPatel72/blob/main/images/Hello.gif)
-![](https://github.com/ShubhamPatel72/ShubhamPatel72/blob/main/images/dev-working.gif)
+
+<img src="https://github.com/ShubhamPatel72/ShubhamPatel72/blob/main/images/Hello.gif"/><br> 
+<img src="https://github.com/ShubhamPatel72/ShubhamPatel72/blob/main/images/dev-working.gif?raw=true"  width="50%"/><br> 
+
 
 <div align="left">
 
