@@ -5,7 +5,7 @@
 - 📫 Contact me shubhampatel1241@gamil.com
 
 
-[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamPatel72&show_icons=true)](https://github.com/ShubhamPatel72/github-readme-stats)
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamPatel72&show_icons=true&theme=github_dark)](https://github.com/ShubhamPatel72/github-readme-stats)
 <!---
 ShubhamPatel72/ShubhamPatel72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
