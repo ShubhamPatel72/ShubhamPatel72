@@ -15,7 +15,7 @@
 - 📫 Contact me shubhampatel1241@gamil.com
 
 
-[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamPatel72&show_icons=true&theme=github_dark)](https://github.com/ShubhamPatel72/github-readme-stats)
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamPatel72&show_icons=true&theme=github_dark)](https://github.com/ShubhamPatel72)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamPatel72&layout=compact))](https://github.com/ShubhamPatel72)
 
