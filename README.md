@@ -17,9 +17,9 @@
 
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamPatel72&show_icons=true&theme=github_dark)](https://github.com/ShubhamPatel72/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamPatel72&layout=compact))](https://github.com/ShubhamPatel72/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamPatel72&layout=compact))](https://github.com/ShubhamPatel72)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/ShubhamPatel72)
 
 
 
